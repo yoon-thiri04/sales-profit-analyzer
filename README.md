@@ -6,16 +6,16 @@ An interactive Streamlit web app that helps users analyze monthly **sales**, **e
 
 ### 🧩 Features
 
-✅ Manually input monthly sales and expenses
-✅ Upload CSV file instead of typing manually
-✅ Automatic calculation of profit per month
+✅ Manually input monthly sales and expenses <br>
+✅ Upload CSV file instead of typing manually <br>
+✅ Automatic calculation of profit per month <br>s
 ✅ Interactive charts:
 
 * 📊 Line chart
 * 📊 Bar chart
 * 🥧 Pie chart (only shows positive profit months)
 
-✅ Download summarized data as Excel
+✅ Download summarized data as Excel<br>
 ✅ Sidebar uploader
 
 ---
