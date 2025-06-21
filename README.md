@@ -8,7 +8,7 @@ An interactive Streamlit web app that helps users analyze monthly **sales**, **e
 
 ✅ Manually input monthly sales and expenses <br>
 ✅ Upload CSV file instead of typing manually <br>
-✅ Automatic calculation of profit per month <br>s
+✅ Automatic calculation of profit per month <br>
 ✅ Interactive charts:
 
 * 📊 Line chart
